@@ -1,0 +1,12 @@
+<students>
+    <student>
+        <id>1</id>
+        <name>Rishi Kokil</name>
+        <department>Computer Engineering</department>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Ilham Syed</name>
+        <department>IT</department>
+    </student>
+</students>

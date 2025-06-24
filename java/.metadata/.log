@@ -1,0 +1,13 @@
+!SESSION 2025-06-20 10:11:08.204 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+This is a continuation of log file C:\Users\rishi\OneDrive\Desktop\ISS Assignments\java\.metadata\.bak_0.log
+Created Time: 2025-06-20 10:12:44.884
+
+!ENTRY com.codetogether.hq.eclipse 1 0 2025-06-20 10:12:44.885
+!MESSAGE Authorization Server started successfuly
