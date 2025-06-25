@@ -36,3 +36,41 @@ The password must:
 
 ## 📁 File Structure
 
+```
+project-folder/
+├── index.html → Main HTML structure
+├── style.css → Stylesheet for layout and design
+└── script.js → JavaScript for validation logic
+
+```
+
+
+---
+
+## 🚀 How to Run
+
+1. Clone or download the project folder.
+2. Make sure all three files (`index.html`, `style.css`, `script.js`) are in the same directory.
+3. Open the `index.html` file in any modern web browser.
+4. Fill in the form and click **Submit**.
+5. Observe success or error messages based on input validation.
+
+---
+
+## 📚 What I Learned
+
+- How to build a static web form using HTML.
+- Styling forms using modern CSS techniques.
+- Writing JavaScript to handle input validation and feedback.
+- Strengthening user experience by handling errors without server calls.
+
+---
+
+## 📝 Notes
+
+- This project is purely **frontend only** and does not store any data.
+- No external libraries or frameworks were used.
+- Suitable as a beginner assignment to practice web development basics.
+
+---
+
