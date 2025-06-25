@@ -1,48 +1,56 @@
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: #f0f2f5;
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
   display: flex;
   justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
+  padding: 30px;
 }
 
 .container {
-  background: white;
-  padding: 30px;
+  background: #fff;
+  padding: 25px;
   border-radius: 10px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-  width: 300px;
+  width: 400px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
   text-align: center;
   margin-bottom: 20px;
-  color: #333;
 }
 
-input[type="text"],
-input[type="email"],
-input[type="password"] {
+label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+input,
+select {
   width: 100%;
-  padding: 10px;
-  margin: 8px 0;
+  padding: 8px;
+  margin-top: 5px;
   border: 1px solid #ccc;
-  border-radius: 6px;
+  border-radius: 5px;
   box-sizing: border-box;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  width: auto;
+  margin-right: 6px;
 }
 
 button {
   width: 100%;
+  margin-top: 20px;
   padding: 10px;
-  background-color: #4caf50;
-  color: white;
+  background: #4caf50;
   border: none;
-  border-radius: 6px;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
   cursor: pointer;
-  margin-top: 10px;
-  font-weight: bold;
 }
 
 button:hover {
@@ -52,16 +60,16 @@ button:hover {
 .message {
   margin-top: 15px;
   padding: 10px;
-  border-radius: 6px;
   text-align: center;
-}
-
-.error {
-  background-color: #f8d7da;
-  color: #721c24;
+  border-radius: 5px;
 }
 
 .success {
   background-color: #d4edda;
   color: #155724;
+}
+
+.error {
+  background-color: #f8d7da;
+  color: #721c24;
 }
