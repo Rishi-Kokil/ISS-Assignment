@@ -1,4 +1,4 @@
-# ISS (Information Systems & Software) Programming Assignments
+# ISS  Assignments
 
 This repository contains a comprehensive collection of programming assignments covering multiple technologies and concepts in software development. The assignments are organized into different domains, each demonstrating specific programming paradigms and technologies.
 
@@ -7,16 +7,16 @@ This repository contains a comprehensive collection of programming assignments c
 ```
 ISS Assignments/
 │
-├── 🐍 Python/                          # Python Programming Fundamentals
-├── ☕ java/                            # Core Java Programming Concepts
-├── 🌐 Client Side Programming/         # Frontend Web Development
-├── 🔗 Client and Server Side Programming/ # Full-Stack Web Development
-└── 💾 DBMS/                           # Database Management Concepts
+├── Python/                          # Python Programming Fundamentals
+├── java/                            # Core Java Programming Concepts
+├── Client Side Programming/         # Frontend Web Development
+├── Client and Server Side Programming/ # Full-Stack Web Development
+└── DBMS/                           # Database Management Concepts
 ```
 
 ---
 
-## 🐍 Python Programming
+## Python Programming
 
 **Location**: `/Python/`
 
@@ -42,7 +42,7 @@ Basic Python programming assignments covering fundamental concepts.
 
 ---
 
-## ☕ Java Programming
+## Java Programming
 
 **Location**: `/java/`
 
@@ -73,7 +73,7 @@ Comprehensive Java programming assignments covering core concepts and advanced t
 
 ---
 
-## 🌐 Client-Side Programming
+## Client-Side Programming
 
 **Location**: `/Client Side Programming/`
 
@@ -98,7 +98,7 @@ Frontend web development focusing on HTML, CSS, and JavaScript.
 
 ---
 
-## 🔗 Client and Server-Side Programming
+## Client and Server-Side Programming
 
 **Location**: `/Client and Server Side Programming/`
 
@@ -133,7 +133,7 @@ A complete user authentication web application built with:
 
 ---
 
-## 💾 Database Management (DBMS)
+## Database Management (DBMS)
 
 **Location**: `/DBMS/`
 
@@ -154,7 +154,7 @@ Theoretical and practical database concepts and implementations.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites:
 - **Python 3.x** for Python assignments
@@ -187,7 +187,7 @@ java package.ClassName
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 This assignment collection demonstrates proficiency in:
 
@@ -199,7 +199,7 @@ This assignment collection demonstrates proficiency in:
 
 ---
 
-## 📚 Assignment Structure
+## Assignment Structure
 
 Each assignment is self-contained and includes:
 - ✅ **Source Code** with detailed comments
@@ -222,16 +222,4 @@ Each assignment is self-contained and includes:
 | **MySQL** | Database Operations | JDBC Examples |
 | **Eclipse** | Development Environment | Project Setup |
 
----
 
-## 📞 Support
-
-For any questions or issues with the assignments:
-1. Check the individual README files in each directory
-2. Review the comments in source code files
-3. Ensure all prerequisites are properly installed
-4. Verify server configurations for web applications
-
----
-
-*This repository represents a comprehensive study of modern software development practices and technologies, covering both theoretical concepts and practical implementations.*
